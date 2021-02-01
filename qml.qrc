@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/GameBoard.qml</file>
+        <file>resources/main.qml</file>
+        <file>resources/Tile.qml</file>
+        <file>resources/img/background.png</file>
+        <file>resources/img/figureI.png</file>
+        <file>resources/img/figureJ.png</file>
+        <file>resources/img/figureL.png</file>
+        <file>resources/img/figureS.png</file>
+        <file>resources/img/figureT.png</file>
+        <file>resources/img/figureZ.png</file>
+        <file>resources/img/figureO.png</file>
+    </qresource>
+</RCC>

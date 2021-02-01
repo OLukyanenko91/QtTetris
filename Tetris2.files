@@ -1,0 +1,17 @@
+CFigure.hpp
+CFigureT.hpp
+GameBoard.qml
+GameBoardModel.cpp
+GameBoardModel.hpp
+Tetris.pro
+Tile.qml
+figures/figureI.png
+figures/figureJ.png
+figures/figureL.png
+figures/figureO.png
+figures/figureS.png
+figures/figureT.png
+figures/figureZ.png
+main.cpp
+main.qml
+qml.qrc
